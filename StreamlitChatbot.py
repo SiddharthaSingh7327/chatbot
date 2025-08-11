@@ -2,7 +2,7 @@ import os
 import streamlit as st
 from pathlib import Path
 import google.generativeai as genai
-from typing import Optional
+from typing import Optional 
 import json
 import PyPDF2
 from docx import Document as DocxDocument
